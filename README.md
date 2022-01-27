@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJosephLee)](https://github.com/anuraghazra/github-readme-stats)
+- Stack - React, Express, JavaScript, Node.js, HTML5, CSS3
+- Tools - Bootstrap 5, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 
 ## 💬 About Me
 Hi, my name is Joseph, and I love to code! I currently know JavaScript, React, Node.js, Bootstrap 5, and many more. 
