@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 Hi, my name is Joseph, and I love to code! I currently know JavaScript, React, Node.js, Bootstrap 5, and many more. 
 
 ## 📫 Let's Connect!
-- [LinkedIn] (https://www.linkedin.com/in/dev-joseph-lee/)
+- [LinkedIn](https://www.linkedin.com/in/dev-joseph-lee/)
