@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey there 👋
 
 <!--
 **DevJosephLee/DevJosephLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🧰 Tools - Bootstrap 5, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 
 ## 💬 About Me
-Hi, my name is Joseph, and I love to code! I currently know JavaScript, React, Node.js, Bootstrap 5, and many more. 
+Hi, my name is Joseph Lee, a passionate software engineer from Orange County, California. The beauty of software development is that intricate combination of carefully thought out code, with a little sprinkle of creativity, can make any dreams or ideas come to reality. 
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/dev-joseph-lee/)
