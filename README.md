@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJosephLee)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 About Me
+Hi, my name is Joseph, and I love to code! I currently know JavaScript, React, Node.js, Bootstrap 5, and many more. 
 
 ## 📫 Let's Connect!
+- [LinkedIn] (https://www.linkedin.com/in/dev-joseph-lee/)
