@@ -27,7 +27,7 @@ I can't wait to see which dreams of mine will come true!
 
 😄 Fun Facts!
 - I have a Shiba Inu dog named Louis 🐕.
-- I collect Legos 🔩.
+- I collect Legos 💎.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/dev-joseph-lee/)
