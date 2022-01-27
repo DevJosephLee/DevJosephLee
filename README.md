@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 ## 💬 About Me
 Hi, my name is Joseph Lee, a passionate software engineer from Orange County, California. The beauty of software development is that intricate combination of carefully thought out code, with a little sprinkle of creativity, can make any dreams or ideas come to reality. 
 
+I can't wait to see which dreams of mine will come true!
+
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/dev-joseph-lee/)
