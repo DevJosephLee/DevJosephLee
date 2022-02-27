@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJosephLee)](https://github.com/anuraghazra/github-readme-stats)
 - 💻 Currently studying - Redux, Axios, React hooks
 - 📚 Stack - React, Express, JavaScript, Node.js, HTML5, CSS3
-- 🧰 Tools - Bootstrap 5, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
+- 🧰 Tools - Bootstrap 5, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack, AWS
 
 ## 💬 About Me
 Hi, my name is Joseph Lee, a passionate software engineer from Orange County, California. The beauty of software development is that intricate combination of carefully thought out code, with a little sprinkle of creativity, can make any dreams or ideas come to a reality. 
