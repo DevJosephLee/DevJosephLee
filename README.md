@@ -26,7 +26,7 @@ Hi, my name is Joseph Lee, a passionate web developer from Orange County, Califo
 I can't wait to see which dreams of mine will come true!
 
 😄 Fun Facts!
-- 6kyu at CodeWars https://www.codewars.com/users/louislovesyou/badges/micro.jpeg
+- [![Profile badge](https://www.codewars.com/users/louislovesyou/badges/small)](https://www.codewars.com/users/louislovesyou)
 - I have a Shiba Inu dog named Louis 🐕
 - I collect Legos 💎
 
