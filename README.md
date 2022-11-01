@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 ## 💬 About Me
 Hi, my name is Joseph Lee, a passionate web developer from Orange County, California. The beauty of software development is that intricate combination of carefully thought out code, with a little sprinkle of creativity, can make any dreams or ideas come to a reality. Literally anything is possible!
 
-I can't wait to see which dreams of mine will come true!
-
 😄 Fun Facts!
 - [![Profile badge](https://www.codewars.com/users/louislovesyou/badges/small)](https://www.codewars.com/users/louislovesyou)
 - I have a Shiba Inu dog named Louis 🐕
