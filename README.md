@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJosephLee)](https://github.com/anuraghazra/github-readme-stats)
-- 💻 Currently studying - Redux, Axios, Twilio
 - 📚 Stack - React, Express.js, Node.js, JavaScript, HTML5, CSS3, PostgreSQL
 - 🧰 Tools - Bootstrap 5, npm, Babel, Webpack, Git, GitHub, Slack, AWS S3, Socket.io, DbDesigner
 
