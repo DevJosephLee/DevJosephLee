@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJosephLee)](https://github.com/anuraghazra/github-readme-stats)
-- 📚 Stack - React, Express.js, Node.js, JavaScript, HTML5, CSS3, PostgreSQL
-- 🧰 Tools - Bootstrap 5, npm, Babel, Webpack, Git, GitHub, Slack, AWS S3, Socket.io, DbDesigner, Klaviyo, Azure DevOps, Telerik Kendo UI
+- 📚 Stack - Next.js, React, Express.js, Node.js, JavaScript, HTML5, CSS3, PostgreSQL
+- 🧰 Tools - Bootstrap 5, npm, Babel, Webpack, Git, GitHub, Slack, AWS S3, Socket.io, DbDesigner, Klaviyo, Azure DevOps, Telerik Kendo UI, Strapi
 
 ## 💬 About Me
 Hi, my name is Joseph Lee, a passionate web developer from Orange County, California. The beauty of software development is that intricate combination of carefully thought out code, with a little sprinkle of creativity, can make any dreams or ideas come to a reality. Literally anything is possible!
