@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🧰 Tools - Bootstrap 5, npm, Babel, Webpack, Git, GitHub, Slack, AWS S3, Socket.io, DbDesigner, Klaviyo, Azure DevOps, Telerik Kendo UI, Strapi
 
 ## 💬 About Me
-Hi, my name is Joseph Lee, a passionate web developer from Orange County, California. The beauty of software development is that intricate combination of carefully thought out code, with a little sprinkle of creativity, can make any dreams or ideas come to a reality. Literally anything is possible!
+The beauty of software development is that intricate combination of carefully thought out code, with a little sprinkle of creativity, can make any dreams or ideas come to a reality. Literally anything is possible!
 
 😄 Fun Facts!
 - [![Profile badge](https://www.codewars.com/users/louislovesyou/badges/small)](https://www.codewars.com/users/louislovesyou)
